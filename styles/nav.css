@@ -243,6 +243,7 @@ footer p{
         flex-direction: column;
     }
     nav > ul{
+        flex-direction: row;
         gap: 20px;
     }
     .btn-primary{
